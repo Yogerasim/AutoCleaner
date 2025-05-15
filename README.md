@@ -13,7 +13,7 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM â€
 - Frees up memory by closing user-space apps (non-system)
 - Uses Terminal and bash for full transparency
 - No setup, no permissions, no installer
-- Drag and drop installation with a beautiful .dmg interface
+- Lightweight, offline, no telemetry
 
 ---
 
