@@ -43,9 +43,9 @@ You may:
 - Share it with attribution
 
 You may **not**:
-- ❌ Sell it
-- ❌ Use it in commercial products
-- ❌ Publish it as your own work
+- Sell it
+- Use it in commercial products
+- Publish it as your own work
 
 For commercial licensing, please contact: yogerrasim@gmail.com
 
