@@ -1,5 +1,7 @@
 # 🧹 AutoCleanerByGerasim
 
+[![Star](https://img.shields.io/github/stars/Yogerasim/AutoCleanerByGerasim?style=social)](https://github.com/Yogerasim/AutoCleanerByGerasim/stargazers)
+
 Minimalist macOS memory cleaner that kills background processes and frees RAM — CleanMyMac-style, without subscriptions.
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
