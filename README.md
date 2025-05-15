@@ -8,12 +8,12 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM �
 
 ---
 
-## ✨ Features
+## 🧠 What it does
 
-- 🧠 Frees up memory by closing background user apps
-- 🚀 1-click Terminal-style cleanup, no setup required
-- 🎨 Custom `.dmg` installer with drag-and-drop UX
-- 🧹 Lightweight, offline, no telemetry
+- Frees up memory by closing user-space apps (non-system)
+- Uses Terminal and bash for full transparency
+- No setup, no permissions, no installer
+- Drag and drop installation with a beautiful .dmg interface
 
 ---
 
@@ -38,9 +38,9 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM �
 This project is licensed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 You may:
-- ✅ Use it for personal purposes
-- 🔧 Modify it
-- 🧠 Share it with attribution
+- Use it for personal purposes
+- Modify it
+- Share it with attribution
 
 You may **not**:
 - ❌ Sell it
