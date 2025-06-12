@@ -1,4 +1,4 @@
-# 🧹 AutoCleanerByGerasim
+# 🧹 AutoCleaner
 
 [![Star](https://img.shields.io/github/stars/Yogerasim/AutoCleanerByGerasim?style=social)](https://github.com/Yogerasim/AutoCleanerByGerasim/stargazers)
 
