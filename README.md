@@ -21,37 +21,11 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM �
 
 ## 📥 Installation
 
-[⬇️ Download AutoCleaner.dmg](https://github.com/Yogerasim/AutoCleanerByGerasim/releases/download/v1.0.0/AutoCleaner.dmg)
+[⬇️ Download AutoCleaner.zip](https://github.com/Yogerasim/AutoCleanerByGerasim/releases/download/v1.0.0/AutoCleaner.zip)
 
-1. Download and open `.dmg`
-2. Drag the app into **Applications**
-3. (Optional) If the app doesn't start, follow the [quarantine removal instructions below](#-macos-quarantine-notice)
+1. Download and unzip `AutoCleaner.zip`
+2. Open the `.dmg` and drag the app into **Applications**
 
----
-
-## 🚫 macOS Quarantine Notice
-
-Since AutoCleaner is not yet notarized by Apple, macOS may prevent it from running after download due to **App Translocation** and **Gatekeeper quarantine**.
-
-### ❗ If the app doesn't launch properly:
-
-macOS might silently block it. To fix this, you need to **manually remove the quarantine flag**. Here's how:
-
-### ✅ How to remove quarantine
-
-1. Open **Terminal**  
-   (You can find it in `Applications → Utilities → Terminal`)
-
-2. Paste this command:
-
-   ```bash
-   sudo xattr -rd com.apple.quarantine /Applications/AutoCleaner.app
-   
-3. Press Enter and enter your admin password when prompted (you won't see it while typing)
-
-4. Done! You can now launch the app normally.
-💡 You only need to do this once, after installing or moving the app.
-   
 ---
 
 ## Preview
