@@ -10,21 +10,21 @@ Minimalist macOS memory cleaner that kills background processes and frees RAM �
 
 ---
 
-## 🧠 What it does
-
-- Frees up memory by closing user-space apps (non-system)
-- Uses Terminal and bash for full transparency
-- No setup, no permissions, no installer
-- Lightweight, offline, no telemetry
-
----
-
 ## 📥 Installation
 
 [⬇️ Download AutoCleaner.zip](https://github.com/Yogerasim/AutoCleanerByGerasim/raw/main/Releases/AutoCleaner.zip)
 
 1. Download and unzip `AutoCleaner.zip`
 2. Open the `.dmg` and drag the app into **Applications**
+
+---
+
+## 🧠 What it does
+
+- Frees up memory by closing user-space apps (non-system)
+- Uses Terminal and bash for full transparency
+- No setup, no permissions, no installer
+- Lightweight, offline, no telemetry
 
 ---
 
